@@ -4,8 +4,7 @@
 
 ---
 
-🎯 Soy un Ingeniero de Sistemas con experiencia en el diseño, desarrollo e implementación de soluciones digitales modernas y centradas en el usuario. Me especializo en Frontend, Backend y Bases de Datos, con un enfoque en escalabilidad, seguridad y buenas prácticas de desarrollo. Disfruto aprender nuevas tecnologías, adaptarme rápidamente y trabajar en equipos multidisciplinarios bajo metodologías ágiles.
-
+Ingeniero de Sistemas egresados de la Universidad Popular del Cesar, con una formación integral que combina las ciencias básicas y de la ingeniería con un marcado enfasis en el desarrollo de software. Estoy en capacidad de diseño, construir soluciones implementarias digitales modernas, aplicar métodos analíticos, computacionales y experimentales para la resolución de problemas reales.
 ---
 
 ## 📫 Contacto
@@ -58,7 +57,7 @@
 
 **Programador Junior**  
 Wymes Soluciones Integrales, Riohacha, La Guajira  
-09/2022 – 10/2024
+001/2022 – 03/2024
 
 - Desarrollo de interfaces responsivas con HTML, CSS, JavaScript, TypeScript, Angular y React.
 - Construcción de APIs y microservicios con C#/.NET y Node.js (Express).

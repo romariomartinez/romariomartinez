@@ -1,92 +1,101 @@
-# 👋 Hola, soy Romario Aldair Martínez Fuentes
+# 👋 Romario Aldair Martínez Fuentes
 
 **Ingeniero de Sistemas | Full Stack Developer**
 
----
-
-Ingeniero de Sistemas egresados de la Universidad Popular del Cesar, con una formación integral que combina las ciencias básicas y de la ingeniería con un marcado enfasis en el desarrollo de software. Estoy en capacidad de diseño, construir soluciones implementarias digitales modernas, aplicar métodos analíticos, computacionales y experimentales para la resolución de problemas reales.
----
-
-## 📫 Contacto
-
-- 📱 +57 324-570-3281
-- 📧 [romariomartinez@gmail.com](mailto:romariomartinez@gmail.com)
-- 🌐 [https://romariomartinez.com/](https://romariomartinez.com/)
+Desarrollador Full Stack con experiencia en el diseño y construcción de aplicaciones web y móviles, APIs REST y soluciones orientadas a negocio. Trabajo en todo el ciclo de desarrollo de software, desde el frontend hasta el backend, con enfoque en arquitectura, buenas prácticas y mantenibilidad.
 
 ---
 
-## 🛠️ Competencias Clave
+## 🧠 Perfil técnico
 
-- **Lenguajes y Frameworks:** C#, .NET, Flutter, Angular, ReactJS, HTML5, CSS3, JavaScript, TypeScript
-- **Bases de Datos:** SQL Server, MySQL, Firebase
-- **Metodologías Ágiles:** Scrum, Kanban, Jira
-- **Herramientas:** Git, Docker, Google Cloud Platform (GCP), Amazon Web Services (AWS), Visual Studio, VS Code
-
----
-
-## 🚀 Proyectos Destacados
-
-- [Menu-Digital](https://github.com/romariomartinez/Menu-Digital)  
-  Plataforma para digitalizar menús de restaurantes, facilitando la gestión de productos y pedidos.
-
-- [Portafolio1](https://github.com/romariomartinez/Portafolio1)  
-  Mi portafolio personal, donde expongo proyectos y habilidades profesionales.
-
-- [API-LICORES-LA-SIERRA](https://github.com/romariomartinez/API-LICORES-LA-SIERRA)  
-  API para la gestión de inventario y ventas en tiendas de licores.
-
-- [MyPetApp](https://github.com/romariomartinez/MyPetApp)  
-  Aplicación para el cuidado y gestión de información de mascotas.
-
-- [Acuiter](https://github.com/romariomartinez/Acuiter)  
-  Solución digital para la administración de acuicultura.
+- **Frontend:** Angular, React, Flutter, HTML5, CSS3, JavaScript, TypeScript  
+- **Backend:** C#, .NET, Node.js (Express)  
+- **APIs:** REST, autenticación y autorización con JWT  
+- **Bases de datos:** SQL Server, MySQL, Firebase  
+- **DevOps / Infraestructura:** Docker, GitHub, AWS, GCP  
+- **Metodologías:** Scrum, Kanban  
+- **Herramientas:** Git, Visual Studio, VS Code, Jira
 
 ---
 
-## 🎓 Educación
+## 🚀 Proyectos destacados
 
-- **Especialización en Ingeniería de Software** (En curso)  
-  Universidad Popular del Cesar | 02/2025 – Actualidad
+### 🔹 API – Inventarios y Ventas
+**API Licores La Sierra**  
+https://github.com/romariomartinez/API-LICORES-LA-SIERRA  
 
-- **Ingeniería de Sistemas**  
-  Universidad Popular del Cesar | 08/2019 – 12/2024
+API REST para la gestión de inventario y ventas en un entorno comercial real.
+- Backend en .NET
+- Autenticación JWT
+- Persistencia en base de datos relacional
+- Diseño orientado a escalabilidad
 
 ---
 
-## 💼 Experiencia Laboral
+### 🔹 Plataforma Web
+**Menu Digital**  
+https://github.com/romariomartinez/Menu-Digital  
 
-**Programador Junior**  
-Wymes Soluciones Integrales, Riohacha, La Guajira  
-001/2022 – 03/2024
+Plataforma web para digitalización de menús de restaurantes.
+- Gestión de productos
+- Interfaz web orientada a usuarios finales
+- Separación clara entre frontend y backend
 
-- Desarrollo de interfaces responsivas con HTML, CSS, JavaScript, TypeScript, Angular y React.
-- Construcción de APIs y microservicios con C#/.NET y Node.js (Express).
-- Administración y optimización de bases de datos en MySQL, SQL Server y Firebase.
+---
+
+### 🔹 Aplicación móvil
+**MyPetApp**  
+https://github.com/romariomartinez/MyPetApp  
+
+Aplicación móvil para la gestión de información de mascotas.
+- Flutter
+- Firebase
+- Arquitectura preparada para crecimiento funcional
+
+---
+
+## 💼 Experiencia profesional
+
+**Full Stack Developer (Programador Junior)**  
+Wymes Soluciones Integrales – Riohacha, La Guajira  
+Enero 2022 – Marzo 2024
+
+- Desarrollo de aplicaciones web con Angular y React.
+- Construcción de APIs y microservicios con C#/.NET y Node.js.
+- Diseño, administración y optimización de bases de datos.
 - Implementación de seguridad y autenticación con JWT.
 - Control de versiones y trabajo colaborativo con Git/GitHub.
-- Desarrollo de una plataforma interna de gestión que mejoró la eficiencia operativa y la satisfacción del cliente.
+- Participación en proyectos en producción para clientes reales.
+
+---
+
+## 🎓 Formación académica
+
+- **Especialización en Ingeniería de Software** (en curso)  
+  Universidad Popular del Cesar | 2025 – Actualidad
+
+- **Ingeniería de Sistemas**  
+  Universidad Popular del Cesar | 2019 – 2024
+
+---
+
+## 📚 Certificaciones
+
+- CCNA v7 – Cisco Networking Academy  
+- Google Cloud Computing Foundations Certificate  
+- JavaScript 1 & 2 – Cisco Networking Academy  
+- Fundamentos de Ciberseguridad  
+- Unity Essentials Pathway
 
 ---
 
 ## 🌐 Idiomas
 
-- Español: Nativo
+- Español: Nativo  
 - Inglés: Intermedio
 
 ---
 
-## 🏆 Certificaciones y Cursos
+📌 Portafolio: https://romariomartinez.com  
+📧 Contacto: romariomartinez@gmail.com
 
-- CCNA v7: Introducción a Redes – Cisco Networking Academy (2023)
-- Unity Essentials Pathway – Unity Technologies (2023)
-- Curso de Ciberseguridad (2023)
-- JavaScript 1-2 – Cisco Networking Academy (2024)
-- Google Cloud Computing Foundations Certificate – Google Cloud, 2025
-
----
-
-## ✨ Sobre mí
-
-Apasionado por la tecnología, los retos y el aprendizaje continuo. Me gusta colaborar en proyectos que generan impacto y contribuyen al desarrollo digital.
-
-¡Gracias por visitar mi perfil! 🚀
